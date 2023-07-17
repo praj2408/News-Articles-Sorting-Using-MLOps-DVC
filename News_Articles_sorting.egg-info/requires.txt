@@ -1,11 +1,5 @@
-pandas 
+pandas
 numpy
 scikit-learn
 tox
 dvc
-
-
-
-
-
--e .
