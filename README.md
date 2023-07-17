@@ -26,6 +26,7 @@ SVM, Neural Networks, Random Forest are commonly used for text classification.
 ## Website
 
 ## Dataset
+[BBC News](https://www.kaggle.com/c/learn-ai-bbc/data)
 ### Dataset Description
 
 - **BBC News Train.csv** - the training set of 1490 records
