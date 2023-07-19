@@ -55,4 +55,4 @@ Contributions to the News-Articles-Sorting project are welcome! If you would lik
 This project is licensed under the MIT License.
 
 ## Contact
-If you have any questions or suggestions regarding the project, please feel free to contact the project maintainer at prajwalgbdr03@gmail.com
+If you have any questions or suggestions regarding the project, please feel free to contact the project maintainer at [Gmail](https://mail.google.com/mail/?view=cm&tf=0&to=prajwalgbdr03@gmail.com)
