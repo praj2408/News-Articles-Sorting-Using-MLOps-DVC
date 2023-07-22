@@ -25,6 +25,22 @@ SVM, Neural Networks, Random Forest are commonly used for text classification.
 
 ## Website
 
+## File structure 
+    .
+    ├── app_exception           # Custom exception
+    ├── application_logging     # logging
+    ├── data_given              # Given Data
+    ├── data                    # raw / processed/ transformed data
+    ├── saved_models            # classification model
+    ├── report                  # model parameter and pipeline reports.
+    ├── src                     # Source files for project implementation
+    ├── webapp                  # ml web application
+    ├── dvc.yaml                # data version control pipeline.
+    ├── app.py                  # Flask backend
+    ├── param.yaml              # parameters
+    ├── requirements.txt
+    └── README.md
+
 ## Dataset
 [BBC News](https://www.kaggle.com/c/learn-ai-bbc/data)
 ### Dataset Description
