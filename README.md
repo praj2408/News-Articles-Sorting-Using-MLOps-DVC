@@ -1,4 +1,4 @@
-# News-Articles-Sorting-using-MLOps in Progress
+# News-Articles-Sorting-using-MLOps - Ongoing
 ## Overview
 The News-Articles-Sorting project is a machine learning-based system that aims to automatically categorize and sort news articles into predefined categories. The project leverages natural language processing (NLP) techniques and supervised learning algorithms to achieve accurate classification of news articles.
 
@@ -24,6 +24,22 @@ between the text and the tags based on already categorized data. Algorithms such
 SVM, Neural Networks, Random Forest are commonly used for text classification.
 
 ## Website
+
+## File structure 
+    .
+    ├── app_exception           # Custom exception
+    ├── application_logging     # logging
+    ├── data_given              # Given Data
+    ├── data                    # raw / processed/ transformed data
+    ├── saved_models            # classification model
+    ├── report                  # model parameter and pipeline reports.
+    ├── src                     # Source files for project implementation
+    ├── webapp                  # ml web application
+    ├── dvc.yaml                # data version control pipeline.
+    ├── app.py                  # Flask backend
+    ├── param.yaml              # parameters
+    ├── requirements.txt
+    └── README.md
 
 ## Dataset
 [BBC News](https://www.kaggle.com/c/learn-ai-bbc/data)
@@ -55,4 +71,4 @@ Contributions to the News-Articles-Sorting project are welcome! If you would lik
 This project is licensed under the MIT License.
 
 ## Contact
-If you have any questions or suggestions regarding the project, please feel free to contact the project maintainer at prajwalgbdr03@gmail.com
+If you have any questions or suggestions regarding the project, please feel free to contact the project maintainer at [Gmail](https://mail.google.com/mail/?view=cm&tf=0&to=prajwalgbdr03@gmail.com)
