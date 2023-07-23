@@ -1,3 +1,5 @@
+app_exception
+application_logging
 prediction_service
 src
 tests
