@@ -1,5 +1,5 @@
 # News-Articles-Sorting-using-MLOps - Ongoing
-## Overview
+## Overview 
 The News-Articles-Sorting project is a machine learning-based system that aims to automatically categorize and sort news articles into predefined categories. The project leverages natural language processing (NLP) techniques and supervised learning algorithms to achieve accurate classification of news articles.
 
 This repository contains all the necessary code and resources to train and deploy the News-Articles-Sorting model. The project utilizes a labeled dataset of news articles, where each article is assigned to a specific category. By training a machine learning model on this dataset, the system can then classify unseen news articles into the appropriate categories.
