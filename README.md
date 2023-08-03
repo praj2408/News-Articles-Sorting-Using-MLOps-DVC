@@ -58,6 +58,8 @@ SVM, Neural Networks, Random Forest are commonly used for text classification.
 - Training and evaluation of machine learning models for article categorization.
 - Web-based interface for interacting with the system and classifying news articles.
 
+## Experiments
+
 ## Contributing
 Contributions to the News-Articles-Sorting project are welcome! If you would like to contribute, please follow these steps:
 
